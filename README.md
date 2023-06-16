@@ -17,9 +17,9 @@
 **Ans : Run Server => (Create Server and Listen to Incoming Request)**
      **Business Logic =>(Handle Request, Validate Input, Connect to database)**
      **Response =>(Return responses [Rendered Html,JSON] )** 
-###
-++Q4 REPL++
-  ++ R =>Read  (Read User Input)
-  ++ E =>Eval  (Evaluate the user input) 
-  ++ P =>Print (Print the output)
-  ++ L =>Loop  (Wait for new input)     
+
+**Q4 REPL++**
+   **R =>Read  (Read User Input)**
+   **E =>Eval  (Evaluate the user input)** 
+   **P =>Print (Print the output)**
+   **L =>Loop  (Wait for new input)**     

@@ -20,6 +20,9 @@
 
 **Q4 REPL++**
    **R =>Read  (Read User Input)**
+
    **E =>Eval  (Evaluate the user input)** 
+   
    **P =>Print (Print the output)**
+   
    **L =>Loop  (Wait for new input)**     
